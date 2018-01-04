@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar;
+
+public <syntax>  = (menu|awesome|exit|this|high score|resume|is|game|pause|reset|play|high score| check| jump| down | right | left |instructions) ;
