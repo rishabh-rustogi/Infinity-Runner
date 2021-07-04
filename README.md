@@ -23,10 +23,23 @@ The game runs on multiple threads to process speech and render the game smoothly
 
 Infinity Runner uses an OpenGL based gaming engine library ([LWJGL](https://github.com/LWJGL/lwjgl3)) for rendering the screen. [CMU Sphinx](https://cmusphinx.github.io/) is used as a speech recognition engine for higher grammar control.
 
-## To run the Game
+## Run the Game
+To run the game follow these steps-
+1. Clone the git repository
+```
+git clone https://github.com/rishabh-rustogi/Infinity-Runner.git
+```
+2. Inside the local repository, go to distribution folder
+```
+cd distribution
+```
+3. To run the code on your native system, run
+```
+java -Djava.library.path=lwjgl_native/<native system> -jar Infinity_Runner.jar
+```
   
 ## Screenshots
-  
-  ![Login Screen](https://github.com/click4abhishek/Solveq/blob/master/Screenshots/1.png)
-  ![Main Screen](https://github.com/click4abhishek/Solveq/blob/master/Screenshots/2.png)
+  <img src="Screenshots/screenshot_5.png" width = "400" height = "250">     <img src="Screenshots/screenshot_2.png" width = "400" height = "250">
+  <img src="Screenshots/screenshot_3.png" width = "400" height = "250">     <img src="Screenshots/screenshot_4.png" width = "400" height = "250">
+  <img src="Screenshots/screenshot_1.png" width = "400" height = "250">     <img src="Screenshots/screenshot_6.png" width = "400" height = "250">
   
