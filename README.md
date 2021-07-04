@@ -7,7 +7,7 @@
 - The intensity of the sound
 
 ## Demo
-[![Watch the video](https://media.giphy.com/media/NHiGi2fZlkdQoCoi46/giphy.gif)](https://youtu.be/B73GnOORPkg)
+[![Watch the video](https://media.giphy.com/media/JkQW76KNDoeKfNTjjx/giphy.gif)](https://youtu.be/qsZ70w5Xtrc)
 
 ## Game Screens, Control and Libraries
 The game features four screens:
