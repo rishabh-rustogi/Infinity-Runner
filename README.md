@@ -43,3 +43,7 @@ java -Djava.library.path=lwjgl_native/<native system> -jar Infinity_Runner.jar
   <img src="Screenshots/screenshot_3.png" width = "400" height = "250">     <img src="Screenshots/screenshot_4.png" width = "400" height = "250">
   <img src="Screenshots/screenshot_1.png" width = "400" height = "250">     <img src="Screenshots/screenshot_6.png" width = "400" height = "250">
   
+## Contributors
+
+- Rishabh Rustogi
+- Ayush Prasad 
