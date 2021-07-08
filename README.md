@@ -33,9 +33,19 @@ git clone https://github.com/rishabh-rustogi/Infinity-Runner.git
 ```
 cd distribution
 ```
-3. To run the code on your native system, run
+3. To run the code on your system, run
 ```
-java -Djava.library.path=lwjgl_native/<native system> -jar Infinity_Runner.jar
+# For linux users
+java -Djava.library.path=lwjgl_native/linux -jar Infinity_Runner.jar
+
+# For mac users
+java -Djava.library.path=lwjgl_native/macosx -jar Infinity_Runner.jar
+
+# For windows users
+java -Djava.library.path=lwjgl_native/windows -jar Infinity_Runner.jar
+
+# For any other system <system>
+java -Djava.library.path=lwjgl_native/<system> -jar Infinity_Runner.jar
 ```
   
 ## Screenshots
