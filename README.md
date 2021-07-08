@@ -1,7 +1,7 @@
 # Infinity Runner
 
 ## Description
-**Infinity Runner** is a voice-controlled game developed in JAVA. The user controls the game's gravity, meaning the user can shift the gravity upside down and vice versa. There are obstacles (rotating blades on the ceiling and deep pits in the ground), which the player must avoid. It is an infinite playground where the player wins by beating the high score. The game takes inputs in two forms:
+**Infinity Runner** is a voice-controlled game developed in JAVA [2018]. The user controls the game's gravity, meaning the user can shift the gravity upside down and vice versa. There are obstacles (rotating blades on the ceiling and deep pits in the ground), which the player must avoid. It is an infinite playground where the player wins by beating the high score. The game takes inputs in two forms:
 
 - Content of the speech
 - The intensity of the sound
